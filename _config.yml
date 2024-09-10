@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xieyang Wang (王撷阳)"
-description              : "Nanjing University of Aeronautics and Astronautics"
+description              : "PhD Candidate in Software Engineering"
 repository               : "zhongmove/zhongmove.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Xieyang Wang"
   avatar           : "images/xieyang.jpg"
-  bio              : "TikTok"
+  bio              : "Nanjing University of Aeronautics and Astronautics"
   location         : "Nanjing"
   employer         :
   pubmed           : 
