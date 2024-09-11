@@ -1,6 +1,8 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2024.07*: 🎉 Our paper NLITS: A Natural Language Interface for Time Series Databases has been accepted by the conference APWeb/WAIM 2024.
+- *2023.06*: 🎉 I have been selected as a member of fifth batch of the “Pilot Program” for cultivating top innovative graduate students at Nanjing University of Aeronautics and Astronautics.
+- *2023.05*: I have received the funding of Postgraduate Research & Practice Innovation Program of Jiangsu Province (KYCX24_0608).
+- *2023.04*: Our paper NALMO: Transforming Queries in Natural Language for Moving Objects Databases has been accepted by the journal Geoinformatica.
+- *2021.08*: We have won the third place in Scientific Data Intelligence Discovery Competition.
+- *2021.05*: Our paper NALMO: A Natural Language Interface for Moving Objects Databases has been selected as one of best paper candidates of the conference SSTD 2021.
+- *2021.02*: Our paper NALMO: A Natural Language Interface for Moving Objects Databases has been accepted by the conference SSTD 2021.
