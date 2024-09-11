@@ -9,7 +9,7 @@
 title                    : "Xieyang Wang (王撷阳)"
 description              : "PhD Candidate in Software Engineering"
 repository               : "zhongmove/zhongmove.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      : G-SWFCX99KQZ
