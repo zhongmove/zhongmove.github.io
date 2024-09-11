@@ -1,4 +1,4 @@
-Welcome! I am Xieyang Wang (王撷阳)
+Welcome! I am Xieyang Wang (王撷阳).
 
 I am currently a second-year Phd student in Software Engineering at Nanjing University of Aeronautics and Astronautics (NUAA), China. I am fortunate to be advised by [Prof. Jianqiu Xu](http://dbgroup.nuaa.edu.cn/jianqiu). I received my master's degree in Software Engineering at Nanjing University of Aeronautics and Astronautics, also advised by [Prof. Jianqiu Xu](http://dbgroup.nuaa.edu.cn/jianqiu), who is an excellent teacher, guiding me to the academic path.
 
