@@ -16,7 +16,7 @@ Mengyi Liu, **Xieyang Wang**, Jianqiu Xu, Hua Lu, Yongxin Tong (Major revision b
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APWeb/WAIM 2024</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NLITS: A Natural Language Interface for Time Series Databases](https://link.springer.com/chapter/10.1007/978-981-97-7244-5_31) \\
@@ -27,15 +27,13 @@ Yuting Lin, Jianqiu Xu, **Xieyang Wang**, Yitong Zhang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geoinformatica</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
-Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
+[NALMO: Transforming Queries in Natural Language for Moving Objects Databases](https://link.springer.com/article/10.1007/s10707-023-00494-5) \\ 
+**Xieyang Wang**, Mengyi Liu, Jianqiu Xu, Hua Lu
 
-[**Project**](https://boostprompt.github.io/boostprompt/) 
-  - This work has been deployed on many TikTok products.
-  - Advandced zero-shot voice cloning model.
+
 </div>
 </div>
 
