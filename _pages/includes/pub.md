@@ -38,30 +38,56 @@ Yuting Lin, Jianqiu Xu, **Xieyang Wang**, Yitong Zhang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGSPATIAL/GIS 2023</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
+[NALSpatial: An Effective Natural Language Transformation Framework for Queries over Spatial Data](https://dl.acm.org/doi/10.1145/3589132.3625600) \\
+Mengyi Liu, **Xieyang Wang**, Jianqiu Xu, Hua Lu
 
-- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
-- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
 
-- [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSTD 2023</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
+[NALSD: A Natural Language Interface for Spatial Databases](https://dl.acm.org/doi/10.1145/3609956.3609974) \\
+Mengyi Liu, **Xieyang Wang**, Jianqiu Xu
 
-[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
+
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSTD 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NALMO: A Natural Language Interface for Moving Objects Databases](https://dl.acm.org/doi/10.1145/3469830.3470894) \\
+**Xieyang Wang**, Jianqiu Xu, Hua Lu
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDM 2020</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NLMO: Towards a Natural Language Tool for Querying Moving Objects](https://ieeexplore.ieee.org/document/9162262/) \\
+**Xieyang Wang**, Jianqiu Xu, Yaxin Wang
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SpatialDI 2020</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Efficiently Detecting Light Events in Astronomical Temporal Data](https://link.springer.com/chapter/10.1007/978-3-030-69873-7_13) \\
+Chenglong Fang, **Xieyang Wang**, Jianqiu Xu, Feng Wang
+
+
+</div>
+</div>
 - `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
 - ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
 - ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
