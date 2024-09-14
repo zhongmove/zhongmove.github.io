@@ -3,7 +3,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APWeb/WAIM 2024</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APWeb/WAIM 2024</div><img src='images/apweb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NLITS: A Natural Language Interface for Time Series Databases](https://link.springer.com/chapter/10.1007/978-981-97-7244-5_31) \\
