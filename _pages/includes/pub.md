@@ -76,8 +76,5 @@ Chenglong Fang, **Xieyang Wang**, Jianqiu Xu, Feng Wang
 </div>
 </div>
 - ``TKDE`` NALSpatial: A Natural Language Interface for Spatial Databases, Mengyi Liu, **Xieyang Wang**, Jianqiu Xu, Hua Lu, Yongxin Tong (Major revision)
-- ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
-- ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
-- ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
-- ``ACL 2023`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](), Rongjie Huang, Chunlei Zhang, **Yi Ren**, et al.
+- ``NDBC 2024`` NL4ST: Research on Natural Language Query Transformation Method for Spatio-temporal Databases, Mengyi Liu, **Xieyang Wang**, Jianqiu Xu (in Chinese)
 
