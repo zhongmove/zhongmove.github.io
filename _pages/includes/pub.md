@@ -14,7 +14,7 @@ Yuting Lin, Jianqiu Xu, **Xieyang Wang**, Yitong Zhang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geoinformatica</div><img src='images/Geoinformatica 494.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geoinformatica</div><img src='images/Geoinformatica494.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NALMO: Transforming Queries in Natural Language for Moving Objects Databases](https://link.springer.com/article/10.1007/s10707-023-00494-5) \\ 
