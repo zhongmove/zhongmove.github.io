@@ -56,7 +56,7 @@ Mengyi Liu, **Xieyang Wang**, Jianqiu Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDM 2020</div><img src='images/nlmo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MDM 2020</div><img src='images/nlmo.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NLMO: Towards a Natural Language Tool for Querying Moving Objects](https://ieeexplore.ieee.org/document/9162262/) \\
@@ -66,15 +66,9 @@ Mengyi Liu, **Xieyang Wang**, Jianqiu Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SpatialDI 2020</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Efficiently Detecting Light Events in Astronomical Temporal Data](https://link.springer.com/chapter/10.1007/978-3-030-69873-7_13) \\
-Chenglong Fang, **Xieyang Wang**, Jianqiu Xu, Feng Wang
-
-
-</div>
-</div>
 - ``TKDE`` NALSpatial: A Natural Language Interface for Spatial Databases, Mengyi Liu, **Xieyang Wang**, Jianqiu Xu, Hua Lu, Yongxin Tong (Major revision)
 - ``NDBC 2024`` NL4ST: Research on Natural Language Query Transformation Method for Spatio-temporal Databases, Mengyi Liu, **Xieyang Wang**, Jianqiu Xu (in Chinese)
+- ``SpatialDI 2020`` [Efficiently Detecting Light Events in Astronomical Temporal Data](https://link.springer.com/chapter/10.1007/978-3-030-69873-7_13) \\
+Chenglong Fang, **Xieyang Wang**, Jianqiu Xu, Feng Wang
 
