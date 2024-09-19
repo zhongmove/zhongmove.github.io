@@ -28,7 +28,7 @@ Yuting Lin, Jianqiu Xu, **Xieyang Wang**, Yitong Zhang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGSPATIAL/GIS 2023</div><img src='images/sigspatial.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NALSpatial: An Effective Natural Language Transformation Framework for Queries over Spatial Data](https://dl.acm.org/doi/10.1145/3589132.3625600) \\
+[NALSpatial: An Effective Natural Language Transformation Framework for Queries over Spatial Data](https://dl.acm.org/doi/10.1145/3589132.3625600)  \\
 Mengyi Liu, **Xieyang Wang**, Jianqiu Xu, Hua Lu
 
 
