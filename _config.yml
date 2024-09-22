@@ -27,7 +27,7 @@ author:
   location         : "Nanjing"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=daW8jgQAAAAJ
   email            : "xieyang@nuaa.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
