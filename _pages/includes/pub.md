@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img width="1483" height="838" alt="微信图片_20250813225938" src="https://github.com/user-attachments/assets/bc1c8a94-c505-42a8-be03-7479e40fbfef" alt="sym" width="100%"/></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 
