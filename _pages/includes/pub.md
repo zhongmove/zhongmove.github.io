@@ -75,9 +75,7 @@ Mengyi Liu, **Xieyang Wang**, Jianqiu Xu
 </div>
 </div>
 
-
-- ``TKDE`` NALSpatial: A Natural Language Interface for Spatial Databases, Mengyi Liu, **Xieyang Wang**, Jianqiu Xu, Hua Lu, Yongxin Tong (Major revision)
-- ``NDBC 2024`` NL4ST: Research on Natural Language Query Transformation Method for Spatio-temporal Databases, Mengyi Liu, **Xieyang Wang**, Jianqiu Xu (in Chinese)
+- ``Ruan Jian Xue Bao/Journal of Software`` Research on moving object learned index and query algorithm based on data distribution, **Xieyang Wang**, Cheng Chao, Jianqiu Xu, Yunjun Gao (in Chinese) (Accepted)
 - ``SpatialDI 2020`` [Efficiently Detecting Light Events in Astronomical Temporal Data](https://link.springer.com/chapter/10.1007/978-3-030-69873-7_13) \\
 Chenglong Fang, **Xieyang Wang**, Jianqiu Xu, Feng Wang
 
