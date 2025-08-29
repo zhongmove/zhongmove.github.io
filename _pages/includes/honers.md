@@ -1,4 +1,5 @@
 # 🎖 Honors, Awards, and Fundings
+- *2025.5* Interdisciplinary Innovation Fund for Doctoral Students of Nanjing University of Aeronautics and Astronautics (KXKCXJJ202505)
 - *2024.6* Postgraduate Research & Practice Innovation Program of Jiangsu Province (KYCX24_0608)
 - *2024.5* The fifth batch of members of the “Pilot Program” for cultivating top innovative graduate students at Nanjing University of Aeronautics and Astronautics
 - *2021.8* SSTD 2021 Best Research Paper Candidate (3/41 7.32%)
